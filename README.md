@@ -1,2 +1,3 @@
-# barista
-A simle content compositor for lemonbar panel
+# Barista
+A simle content compositor for lemonbar panel.
+
